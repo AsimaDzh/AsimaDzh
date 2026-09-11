@@ -1,7 +1,6 @@
 ### Hi! I am Asima🍋
 
-🎮 Unity game developer<br/>
+👾 I'm a game developer, currently working with Unity 2D/3D<br/>
+🎮 I also have commercial developer experience with Unreal Engine<br/>
 🎓 Currently studying at the [Astana IT University](https://astanait.edu.kz/) as a Software Engineer<br/>
 💙 I hope you enjoy my games!<br/>
-
-![Asima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsimaDzh&show_icons=true&theme=blueberry&bg_color=00000000&border_color=fcdd76)
